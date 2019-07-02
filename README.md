@@ -8,3 +8,5 @@ $git clone https://github.com/Mryansfb/Hackedfb
 $ls
 $cd Hackedfb
 $python2 Darkhackfb.py
+
+#Semoga sukses okeh
